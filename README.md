@@ -14,4 +14,4 @@ https://flappy-bird.co/ \
 https://gitlab.jyu.fi/peltolma/spacegame/-/blob/master/index.html?ref_type=heads \
 https://stackoverflow.com/questions/58383619/how-to-use-a-s-d-w-keys-in-phaser \
 https://digitherium.com/blog/phaser-platformer-series-5-touch-controls/ \
-https://stackoverflow.com/questions/29922024/how-to-set-keyboard-key-pressed-event-only-once-after-pressed-but-not-continousl \
+https://stackoverflow.com/questions/29922024/how-to-set-keyboard-key-pressed-event-only-once-after-pressed-but-not-continousl 
