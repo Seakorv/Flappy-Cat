@@ -192,7 +192,7 @@ class mainScene {
 	 * ylös.
 	 */
 	playerHyppy(delta) {
-		if (spaceBar.isDown || this.input.pointer1.isDown) {
+		if (spaceBar.isDown || this.input.activePointer.isDown) {
 			if (!buttonPressed) {
 				player.setVelocityY(hyppy) * delta;
 				meowHyppy.play();
