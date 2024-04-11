@@ -3,6 +3,8 @@ Flappy Bird copy with Phaser 3
 
 A flappy bird copy with Phaser 3. Just for practice, I hadn't touched javascript or phaser ever before, so it was a good practice. 
 
+http://users.jyu.fi/~aojuntun/flappyC/
+
 Sources i used for this in addition of Phasers own guides and documentation:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random \
